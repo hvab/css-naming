@@ -57,7 +57,6 @@ bar
 block
 breadcrumbs
 button
-button
 caption
 card
 cart
