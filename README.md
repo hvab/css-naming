@@ -10,11 +10,13 @@ identified
 initial
 inverse
 loading
+opened
 original
 pending
 switched
 syncing
 toggled
+visible
 ```
 
 ## Layout
